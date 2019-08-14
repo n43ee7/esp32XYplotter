@@ -14,9 +14,5 @@ Click on image for interactive viewer in browser.
 
 [![GrabCAD](https://github.com/bdring/midTbot_esp32/blob/master/Docs/images/grabcad_model.png)](https://workbench.grabcad.com/workbench/projects/gcj3zJAQexD3ve_8KkwymatyKXhCWnRs8TB5U1ojGxl3s4#/space/gcP-lh4vchvUQ6FbfQFYGKVWLmIdnV8aq2IyxzoECw8woR/link/1918044)
 
-### Kits
-
-There currently are no kits for sale. Full kits or controller PCBs may be available in the future.
-
 #### Credits: 
 _https://github.com/bdring/midTbot_esp32_
